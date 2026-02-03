@@ -56,9 +56,31 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 </p>
 
 ## Github Stats Section 📊 :
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav-patil2702&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-patil2702&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com
+  ?user=gaurav-patil2702
+  &theme=dark
+  &hide_border=true
+  &ring=00e6d8
+  &fire=00e6d8
+  &currStreakLabel=00e6d8" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-patil2702&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 
 ## Contribution & Streak Stats 🔥 :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-patil2702&theme=dark)
+
+
+## Let's Connect 🤝 :
+<div align="center">
+  <a href="mailto:gaurav27206@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gauravpatil27/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
