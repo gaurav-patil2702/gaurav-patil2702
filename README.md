@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Patil....!
-**A passionate Python Developer || Generative AI || Machine Learning**
+**A Passionate Python Developer || Generative AI || Machine Learning**
 
 Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
