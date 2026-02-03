@@ -33,25 +33,25 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 
 ### Languages ⭐ :
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
 ## Frontend and Development ⭐ :
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </p>
 
 ## Database ⭐ :
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 </p>
 
 ## Github Stats Section 📊 :
@@ -63,10 +63,10 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 ## Let's Connect 🤝 :
 <div align="center">
   <a href="mailto:gaurav27206@gmail.com">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Gmail"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/gauravpatil27/" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
