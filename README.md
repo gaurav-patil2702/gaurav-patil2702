@@ -54,4 +54,13 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+## Github Stats Section 📊 :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav-patil2702&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-patil2702&layout=compact&theme=dark)
+
+
+## Contribution & Streak Stats 🔥 :
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-patil2702&theme=dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
