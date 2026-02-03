@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Patil....!
-**A passionate Python Developer || Generative AI || Machine Learning **
+**A passionate Python Developer || Generative AI || Machine Learning**
 
 Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -8,12 +8,12 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 
-- 🔭 **I’m currently working on: Python project**
+- 🔭 **I’m currently working on a Python project**
 - 🌱 **I’m currently a 3rd year Student and Pursuing bachelor of engineering in Artificial Intelligence and Data Science**
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... -->
 - 📫 **How to reach me: gaurav27206@gmail.com**
 - 😄 **Pronouns: Gaurav Patil**
 - ⚡ **Fun fact: I debug faster when I explain the problem to my rubber duck 🦆💻**
