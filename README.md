@@ -23,7 +23,12 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## Connect with me ⭐:
 
+<p align="left">
+<a href="https://www.linkedin.com/in/gauravpatil27/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-patil27" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gauravvv._.27/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?short_path=d0c668a" alt="gauravpatil27" height="30" width="40" /></a>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
