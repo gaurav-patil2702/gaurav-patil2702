@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Patil....!
-**A Passionate Python Developer || Generative AI || Machine Learning**
-
+**A passionate developer exploring Web, AI/ML, and Backend technologies.**
 Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <div align="center">
@@ -9,7 +8,7 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 
 
 - 🔭 **I’m currently working on a Python project**
-- 🌱 **I’m currently a 3rd year Student and Pursuing bachelor of engineering in Artificial Intelligence and Data Science**
+- 🌱 **I’m currently a 3rd-year student pursuing a Bachelor of Engineering in Artificial Intelligence and Data Science.**
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -34,53 +33,40 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 
 ### Languages ⭐ :
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
 </p>
 
 ## Frontend and Development ⭐ :
 <p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 </p>
 
 ## Database ⭐ :
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/>
 </p>
 
 ## Github Stats Section 📊 :
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com
-  ?user=gaurav-patil2702
-  &theme=dark
-  &hide_border=true
-  &ring=00e6d8
-  &fire=00e6d8
-  &currStreakLabel=00e6d8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-patil2702&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-
-## Contribution & Streak Stats 🔥 :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-patil2702&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=gaurav-patil2702&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gaurav-patil2702&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-patil2702&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## Let's Connect 🤝 :
 <div align="center">
   <a href="mailto:gaurav27206@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/gauravpatil27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn"/>
   </a>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
