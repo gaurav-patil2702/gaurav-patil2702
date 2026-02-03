@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Patil....!
-**A passionate Python Developer || Generative AI|| Machine Learning **
+**A passionate Python Developer || Generative AI || Machine Learning **
 
 Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -8,15 +8,15 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 
-
-- 🔭 **I’m currently working on: Python project that is GenAI Modules
-- 🌱 **I’m currently learning:** I'm 3rd year Student and Pursuing bachelor of engineering in Artificial Intelligence and Data Science
-- 👯 **I’m looking to collaborate on:** ....
-- 🤔 **I’m looking for help with:** For GenAI Project
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** gaurav27206@gmail.com
-- 😄 **Pronouns:** Gaurav Patil
-- ⚡ **Fun fact:** I Loves Tech and Tech Loves Me
+- 🔭 **I’m currently working on: Python project**
+- 🌱 **I’m currently a 3rd year Student and Pursuing bachelor of engineering in Artificial Intelligence and Data Science**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 📫 **How to reach me: gaurav27206@gmail.com**
+- 😄 **Pronouns: Gaurav Patil**
+- ⚡ **Fun fact: I debug faster when I explain the problem to my rubber duck 🦆💻**
 
 
 <div align="center">
@@ -30,5 +30,26 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 <a href="https://www.instagram.com/gauravvv._.27/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg?short_path=d0c668a" alt="gauravpatil27" height="30" width="40" /></a>
 </p>
 
+### 🌟 Languages :
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+### 🌟 Frontend and Development :
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### 🌟 Database :
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
