@@ -62,7 +62,9 @@ Email Me 👉 ✉️ **gaurav27206@gmail.com** For Collaboration/Project or Anyt
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gaurav-patil2702&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gaurav-patil2702&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
